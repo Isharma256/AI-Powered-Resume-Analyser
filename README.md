@@ -1,2 +1,14 @@
-# AI-Powered-Resume-Analyser
-AI Resume Analyzer is a web-based Python tool that automatically scores resumes out of 100 for ATS compatibility and provides personalized feedback to help job seekers improve their chances of getting shortlisted.
+ AI Powered Resume Analyzer
+
+## Description
+This project analyzes resumes using AI techniques and provides feedback to improve content quality and job matching.
+
+## Features
+- Resume analysis
+- Skill extraction
+- Suggestions for improvement
+- User-friendly interface
+
+## Technologies Used
+- Python (Flask)
+- HTML, CSS
